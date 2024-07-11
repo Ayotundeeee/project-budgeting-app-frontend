@@ -1,0 +1,26 @@
+fieldset input {
+    font-size: 15px;
+}
+
+#submit-edit {
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    background-color: green;
+    color: whitesmoke;
+    padding: 0.5em 1.5em;
+}
+
+#back-to-show #back-btn {
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    background-color: green;
+    color: whitesmoke;
+    padding: 0.5em 1.5em;
+    margin: 0 auto;
+}
+
+#back-to-show {
+    text-decoration: none;
+}

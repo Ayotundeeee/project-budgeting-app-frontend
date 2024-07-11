@@ -1,0 +1,37 @@
+input {
+    margin-bottom: 10px;
+    padding: 0.5em;
+    border-radius: 5px;
+    border: 1px solid rgb(212, 237, 212);
+    outline: none;
+}
+
+form {
+    display: grid;
+    margin: 20px auto;
+}
+
+fieldset {
+    border: 1px solid green;
+    border-radius: 10px;
+    justify-content: center;
+    width: 40%;
+    margin: 0 auto;
+}
+
+label {
+    font-weight: bold;
+}
+
+legend {
+    font-weight: bold;
+}
+
+#submit-new {
+    font-size: medium;
+    border: none;
+    border-radius: 6px;
+    background-color: green;
+    color: whitesmoke;
+    padding: 0.5em 1.5em;
+}

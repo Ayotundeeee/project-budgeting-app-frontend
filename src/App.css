@@ -1,0 +1,35 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    padding: 0 50px;
+    background-color: green;
+    /* background-image: radial-gradient(circle, #58d8c2, #3de2c7); */
+}
+
+.container {
+    height: 100vh;
+    width: 100vw;
+}
+.header{
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    line-height: 30px;
+}
+
+#new-link {
+    color: antiquewhite;
+    text-decoration: none;
+    word-spacing: 3px;
+    border: 0.5px solid whitesmoke;
+    border-radius: 5px;
+    padding: 0.7em 1.2em;
+}
+
+.index-page {
+    height: 100%;
+    width: 100%;
+}
